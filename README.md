@@ -12,4 +12,4 @@ I created a prompt based answering chatbot influenced by JARVIS in Iron Man. Her
 5. Play a game of quiz.
 6. Report current weather for a given city.
 
-More info can be found on my [website](https://radha.fyi)
+More info can be found on my [website](https://rjonnavittula.github.io/posts/2022/08/blog-post-1/)
